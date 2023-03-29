@@ -122,6 +122,8 @@ nav ul li{
             display: none;
         }
         .content .img img{
+            position: absolute;
+            right: 20px;
             width: 300px;
             padding: 0 40px;
         }
